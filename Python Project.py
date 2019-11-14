@@ -6,16 +6,16 @@ hmph = ['homophobia','homophobic','faggot','fag','dyke']
 blood = ['blood','bloody', 'bleeding', 'bled']
 ed = ['anorexic', 'anorexia', 'bullimic', 'bullima', 'throw up', 'vomit', 'starve']
 def plot(summary):
-  if type(summary) != str:
-    raise TypeError("Please input a plot summary")
-  warnings = false
-  for element in plot:
-      for word in hmph:
-          if element == word
-          print "Trigger Warning: Homophobia"
-      for word in blood:
-          if element == word
-          print "Trigger Warning: Blood"
-      for word in ed:
-          if element == word
-          print "Trigger Warning: Eating Disorder"
+    if type(summary) != str:
+        raise TypeError("Please input a plot summary")
+    warnings = False
+    for element in plot:
+        for word in hmph:
+              if element == word:
+                print "Trigger Warning: Homophobia"
+        for word in blood:
+              if element == word:
+                print "Trigger Warning: Blood"
+        for word in ed:
+              if element == word:
+                print "Trigger Warning: Eating Disorder"
