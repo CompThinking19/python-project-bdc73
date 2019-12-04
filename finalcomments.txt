@@ -1,0 +1,11 @@
+Comments
+The comments that are present include a good introductory comment and one for a function that does a great job at describing its role within the overall scheme of the program. There could have been further comments inside the function that described its inner workings, however.
+
+Code Quality
+The code that's present conforms to best practices we've discussed this semester. It's encapsulated within a function, and the for loops will do the job of iterating through the various words you are looking for in the descriptions.
+
+Ambition
+As I said in my previous comments, I think the overall conceit of this project is excellent and worthwhile. Your introductory comment is the start of a README, but no actual README is present, so you do lose a substantial amount of the points for this category because of that.
+
+Aesthetics
+Unfortunately, the program doesn't output anything when it's run, so this category is fairly hard to judge. From what I can tell from the code present, as I said above, I think this program's output would be useful if brought to completion.
